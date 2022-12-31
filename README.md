@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JeremyTBennett. My day job is the test architect within a professional digital media where I develop and support analysis modules to allow comprehensive testing without human interaction in a DevOps environment.
+- 👀 I’m interested in writing microservices that contain the automated analysis code so that the automated testing can be easily scaled up in the cloud. 
+- 🌱 I’m currently learning to use Go as I find the dynamic nature of Python does not produce reliable code if contained within a container running remotely. I need a language that finds most of the code errors before deployment.
